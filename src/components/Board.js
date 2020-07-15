@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import player from './assets/player_red.png';
-import ladder from './assets/ladder.png';
-import snk1 from './assets/snk1.png';
+import player from './imgs/player_red.png';
+import ladder from './imgs/ladder.png';
+import snk1 from './imgs/snk1.png';
 // import snk2 from './assets/snk2.png';
 // import snk3 from './assets/snk3.png';
 // import snk4 from './assets/snk4.png';
